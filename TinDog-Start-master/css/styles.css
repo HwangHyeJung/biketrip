@@ -1,0 +1,30 @@
+body {
+    background-color:#f4f4f4 ;
+    font-family: 'Lilita One', cursive;
+}
+
+h1{
+    font-family: 'Montserratt-Bold';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+nav {
+    /*padding: 25px 50px 100px;*/
+    margin-bottom: 50px;
+}
+
+.rotated {
+
+    transform: rotate(20deg);
+}
+
+/* Navigation Bar */
+.navbar-brand {
+    font-family: "Montserratt-Bold";
+    font-size: 2.5rem;
+}
+
+#title{
+    color: #ff7315;
+}
